@@ -1,2 +1,2 @@
 # mutruc-music
-Music of mutruc.
+Music of mutruc.Licensed under CC-BY
